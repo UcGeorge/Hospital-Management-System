@@ -45,7 +45,7 @@ def main():
 
 
 if __name__ == '__main__':
-    print("-----Doctor Portal-----")
+    print("-----Patient Portal-----")
     try:
         main()
     except KeyboardInterrupt:
